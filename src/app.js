@@ -39,7 +39,7 @@ main_display.on('click', 'select', function(){
     var insult = new UI.Text({
         position: new Vector2(0, 0),
         size: new Vector2(144, 168),
-        text:'Shake your Pebble to get an insult!',
+        text:'Shake your Pebble to get shade from one of Shakespeare\'s plays!',
         font:'GOTHIC_18',
         color:'black',
         textOverflow:'wrap',
